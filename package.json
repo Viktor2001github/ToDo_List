@@ -1,0 +1,22 @@
+{
+	"name": "todo-list",
+	"version": "1.0.0",
+	"description": "todo",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest",
+		"build": "http-server"
+	},
+	"engines": {
+		"node": "14.x"
+	},
+	"devDependencies": {
+		"jest": "^29.7.0",
+		"jest-environment-jsdom": "^29.7.0",
+		"jest-mock": "^29.7.0",
+		"jsdom": "^22.1.0"
+	},
+	"keywords": [],
+	"author": "viktor",
+	"license": "ISC"
+}
